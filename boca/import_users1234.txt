@@ -1,0 +1,9 @@
+[user]
+usernumber=19
+usersitenumber=1
+username=1234
+userfullname=1234
+usertype=team
+userpassword=1234z
+userenabled=t
+usermultilogin=f
